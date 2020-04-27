@@ -1,0 +1,21 @@
+﻿  game.cpp
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.h(5,1): warning C4005: 'MessageBox': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9159): message : see previous definition of 'MessageBox'
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(49,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(49,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(50,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(50,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(51,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(51,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(52,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(52,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(64,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(64,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(64,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(64,10): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.cpp(122,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+C:\Users\ahmad\source\repos\uts_kgv\uts_kgv\game.h(5,1): warning C4005: 'MessageBox': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9159): message : see previous definition of 'MessageBox'
+  Generating Code...
+  uts_kgv.vcxproj -> C:\Users\ahmad\source\repos\uts_kgv\Debug\uts_kgv.exe
